@@ -5,9 +5,11 @@ Sou apaixonado por tecnologia e busco constantemente novos desafios.
 ### **Habilidades:**
 * JavaScript
 * HTML
+* Node.js
 
 ### **Projetos:**
-* Imersão Dev com Gemini
+* Imersão Dev Front-end
+* Imersão Dev Back-end
 
 ### **Contato:**
 * **Email:** kayqueduartecosta@gmail.com
